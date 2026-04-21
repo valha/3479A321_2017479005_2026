@@ -6,8 +6,10 @@
     "configurations": [
         {
             "name": "lab_1_test",
+            "type": "dart",
             "request": "launch",
-            "type": "dart"
-        }
+            "program": "bin/main.dart"
+        },
+
     ]
 }
